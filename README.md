@@ -1,3 +1,4 @@
+Pneumonia Detection Using Chest X-Ray Images
 # This project applies computer vision techniques to classify chest X-ray images as NORMAL or PNEUMONIA using the Kaggle Chest X-Ray dataset. The goal is to demonstrate end-to-end understanding of preprocessing, model training, evaluation, and prediction.
 
 1. Problem Overview
